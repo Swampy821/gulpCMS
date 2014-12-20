@@ -4,7 +4,13 @@
   "description": "",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp": "^3.8.10"
+    "gulp": "^3.8.10",
+    "gulp-less": "^2.0.1",
+    "gulp-concat": "^2.4.2",
+    "gulp-markdown": "^1.0.0",
+    "gulp-rimraf": "^0.1.1",
+    "gulp-rename": "^1.2.0",
+    "rimraf": "^2.2.8"
   },
   "devDependencies": {},
   "scripts": {
